@@ -76,6 +76,11 @@ This is a living document so it will change over time; as it does, repositories 
 - This file should be based on the `package.json` file in the assets directory of this repository.
   - npm packages must set `private` to `false`.
 
+### .npmrc
+
+- Node.JS projects should have a `.npmrc` file.
+- This file should be based on the `.npmrc` file in the assets directory of this repository.
+
 ### .renovaterc.json
 
 - Each repository must have a `.renovaterc.json` file in the root directory.
