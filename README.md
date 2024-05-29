@@ -50,7 +50,7 @@ This is a living document so it will change over time; as it does, repositories 
 ### .gitattributes
 
 - Each repository must have an `.gitattributes` file in the root directory.
-- This file must at least specify `* text eol=lf`
+- This file must at least specify `* text=auto eol=lf`
 
 ### .vscode/settings.json
 
